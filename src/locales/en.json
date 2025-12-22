@@ -54,6 +54,46 @@
       "more": "Much more!"
     }
   },
+  "projects": {
+    "title": "Projects",
+    "items": {
+      "primitive-budget": {
+        "name": "Primitive Budget",
+        "description": "Web application for managing and controlling personal budgets graphically. With the ability to export information and share it through JSON files.",
+        "url": "https://github.com/santimolt/primitive-budget",
+        "languages": ["React", "Chakra UI", "Recharts js", "Zustand", "JavaScript", "HTML", "CSS"],
+        "updatedAt": "17/12/2025"
+      },
+      "control-de-stock-y-ventas": {
+        "name": "Stock and Sales Control",
+        "description": "Web application for managing and controlling a company's stock and sales. Data management based on IndexedDB and localStorage to save information locally.",
+        "url": "https://github.com/santimolt/control-stock",
+        "languages": ["React", "Tailwind CSS", "Shadcn UI", "IndexedDB", "localStorage", "TypeScript", "HTML", "CSS"],
+        "updatedAt": "27/11/2025"
+      },
+      "fm23-auto-praise-training-performace": {
+        "name": "FM23 Automation",
+        "description": "Task automation for the FM23 game. Project using macros to automate repetitive tasks.",
+        "url": "https://github.com/santimolt/fm23-auto-praise-training-performace",
+        "languages": ["Python", "PyAutoGUI"],
+        "updatedAt": "20/9/2025"
+      },
+      "devforce-2024": {
+        "name": "DevForce 2024",
+        "description": "Udemy license management frontend for a company. Educational project for a web development course called DevForce for high school graduates.",
+        "url": "https://github.com/santimolt/DevForce-2024",
+        "languages": ["React", "Tailwind CSS", "JavaScript", "HTML", "CSS", "Context API"],
+        "updatedAt": "23/8/2023"
+      },
+      "padim": {
+        "name": "PADIM Project",
+        "description": "Web application for managing a pill organizer with schedule control and reminder alerts. Final project for electronic technical high school, developed together with the PADIM device.",
+        "url": "https://github.com/santimolt/PADIM",
+        "languages": ["Python", "Flask", "HTML", "CSS", "JavaScript"],
+        "updatedAt": "16/11/2021"
+      }
+    }
+  },
   "footer": {
     "title": "Need my CV?",
     "button": "Download it here!",

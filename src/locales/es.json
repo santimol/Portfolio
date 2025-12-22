@@ -55,6 +55,46 @@
       "more": "Mucho más!"
     }
   },
+  "projects": {
+    "title": "Proyectos",
+    "items": {
+      "primitive-budget": {
+        "name": "Primitive Budget",
+        "description": "Aplicación web para la gestion y control de presupuestos personales de forma gráfica. Con posibilidad de exportar informacion y compartirla mediante archivos JSON.",
+        "url": "https://github.com/santimolt/primitive-budget",
+        "languages": ["React", "Chakra UI", "Recharts js", "Zustand", "JavaScript", "HTML", "CSS"],
+        "updatedAt": "17/12/2025"
+      },
+      "control-de-stock-y-ventas": {
+        "name": "Control de stock y ventas",
+        "description": "Aplicación web para la gestión y control de stock y ventas de una empresa. Gestión de datos basada en IndexedDB y localStorage para guardar información de forma local.",
+        "url": "https://github.com/santimolt/control-stock",
+        "languages": ["React", "Tailwind CSS", "Shadcn UI", "IndexedDB", "localStorage", "TypeScript", "HTML", "CSS"],
+        "updatedAt": "27/11/2025"
+      },
+      "fm23-auto-praise-training-performace": {
+        "name": "FM23 Automatización",
+        "description": "Automatización de tareas para el juego FM23. Proyecto de utilización de macros para automatizar tareas repetitivas.",
+        "url": "https://github.com/santimolt/fm23-auto-praise-training-performace",
+        "languages": ["Python", "PyAutoGUI"],
+        "updatedAt": "20/9/2025"
+      },
+      "devforce-2024": {
+        "name": "DevForce 2024",
+        "description": "Frontend de gestión de licencias de Udemy para una empresa. Proyecto didáctico para un curso de desarrollo web llamado DevForce para egresados de escuelas secundarias.",
+        "url": "https://github.com/santimolt/DevForce-2024",
+        "languages": ["React", "Tailwind CSS", "JavaScript", "HTML", "CSS", "Context API"],
+        "updatedAt": "23/8/2023"
+      },
+      "padim": {
+        "name": "Proyecto PADIM",
+        "description": "Aplicación web para la gestión de un pastillero con control de horarios y alertas de recordatorio. Proyecto de fin de escuale sacundaria téccnica en electrónica, junto al dispositivo PADIM.",
+        "url": "https://github.com/santimolt/PADIM",
+        "languages": ["Python", "Flask", "HTML", "CSS", "JavaScript"],
+        "updatedAt": "16/11/2021"
+      }
+    }
+  },
   "footer": {
     "title": "Te interesa mi CV?",
     "button": "Descargalo acá!",
