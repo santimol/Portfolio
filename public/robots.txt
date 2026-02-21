@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://santiago-moltedo.com.ar/sitemap.xml
+Host: santiago-moltedo.com.ar
