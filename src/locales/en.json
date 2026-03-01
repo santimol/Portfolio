@@ -13,36 +13,20 @@
   "experience": {
     "title": "Experience",
     "experiences": {
-      "item4": {
+      "item2": {
         "title": "Front End developer",
         "company": "Gire S.A.",
         "startMonth": "January",
         "startYear": "2024",
-        "endMonth": "present"
+        "endYear": "present"
       },
-      "item3": {
-        "title": "Layout artist",
+      "item1": {
+        "title": "UI Developer",
         "company": "Gire S.A.",
         "startMonth": "August",
         "startYear": "2022",
         "endMonth": "January",
         "endYear": "2024"
-      },
-      "item2": {
-        "title": "Front End developer",
-        "company": "Gire S.A.",
-        "startMonth": "May",
-        "startYear": "2022",
-        "endMonth": "December",
-        "endYear": "2022"
-      },
-      "item1": {
-        "title": "Back End developer intern",
-        "company": "Gire S.A.",
-        "startMonth": "June",
-        "startYear": "2021",
-        "endMonth": "December",
-        "endYear": "2021"
       }
     }
   },

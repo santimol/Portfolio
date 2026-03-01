@@ -13,37 +13,20 @@
   "experience": {
     "title": "Experiencias",
     "experiences": {
-      "item4": {
-        "title": "Desarrollador Front End",
-        "company": "Gire S.A.",
-        "startMonth": "Enero",
-        "startYear": 2024,
-        "endMonth": "Actualidad",
-        "endYear": ""
-      },
-      "item3": {
-        "title": "Maquetador",
-        "company": "Gire S.A.",
-        "startMonth": "Agosto",
-        "startYear": 2022,
-        "endMonth": "Enero",
-        "endYear": 2024
-      },
       "item2": {
         "title": "Desarrollador Front End",
         "company": "Gire S.A.",
-        "startMonth": "Mayo",
-        "startYear": 2022,
-        "endMonth": "Deciembre",
-        "endYear": 2022
+        "startMonth": "Enero",
+        "startYear": "2024",
+        "endYear": "Actualidad"
       },
       "item1": {
-        "title": "Pasante desarrollador Back End",
+        "title": "Maquetador UXUI",
         "company": "Gire S.A.",
-        "startMonth": "Junio",
-        "startYear": 2021,
-        "endMonth": "Deciembre",
-        "endYear": 2021
+        "startMonth": "Agosto",
+        "startYear": "2022",
+        "endMonth": "Enero",
+        "endYear": "2024"
       }
     }
   },
